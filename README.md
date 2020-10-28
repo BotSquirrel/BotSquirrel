@@ -1,8 +1,5 @@
 ### Hi there, I'm Luka - aka BotSquirrel
 
-<!--
-**BotSquirrel/BotSquirrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a student and a developer!
 
 - 🔭 I’m currently working on Laravel
