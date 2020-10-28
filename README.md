@@ -25,4 +25,4 @@ My name is Luka Leppens and i'm a software developer and student. You can find m
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/luka-leppens
+[2]: https://www.linkedin.com/in/luka-leppens-4941a61a3/
