@@ -2,10 +2,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Luka Leppens and i'm a software developer and student. You can find me on [![LinkedIn][2.2]][2].
 
-## I'm a student and a developer!
+## 👨‍🎓 I'm a student and a developer!
 
-- 🔭 I’m currently working on Laravel
-- 🌱 I’m currently learning too much!
+- ✏️ I’m currently working on learning Laravel & Unity
+- 📚 I’m working to finish my studies
 - ⚡ Fun fact: i love to drink every kind of coffee ☕
 
 <br />
