@@ -11,12 +11,12 @@ My name is Luka Leppens and i'm a software developer and student. You can find m
 <br />
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/💻_OS-Windows-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/🛠_Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/🛠_Editor-Visual_Studio-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/📄_Code-PHP-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/📄_Code-Pyhton-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/🧱_Framework-Laravel-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/💻_OS-Windows-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/🛠_Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/🛠_Editor-Visual_Studio-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/📄_Code-PHP-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/📄_Code-Pyhton-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/🧱_Framework-Laravel-informational?style=flat&logo=&logoColor=white&color=d5a445)
 
 
 
