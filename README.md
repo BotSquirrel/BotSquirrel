@@ -4,8 +4,8 @@ My name is Luka Leppens and i'm a software developer and student. You can find m
 
 ## 👨‍🎓 I'm a student and a developer!
 
-- ✏️ I’m currently working on learning Laravel & Unity
-- 📚 I’m working to finish my studies
+- ✏️ I’m currently working on learning pyscript & java
+- 📚 I am starting a new studie
 - ⚡ Fun fact: i love to drink every kind of coffee ☕
 
 <br />
@@ -15,7 +15,7 @@ My name is Luka Leppens and i'm a software developer and student. You can find m
 ![](https://img.shields.io/badge/🛠_Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/🛠_Editor-Visual_Studio-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/📄_Code-PHP-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/📄_Code-CSharp-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/📄_Code-Pyhton-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/🧱_Framework-Laravel-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
 
