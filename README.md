@@ -1,11 +1,11 @@
 <!-- context -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Luka Leppens and i'm a software developer and student. You can find me on [![LinkedIn][2.2]][2].
+My name is Luka Leppens and i'm a student Software Engineer. You can find me on [![LinkedIn][2.2]][2].
 
 ## 👨‍🎓 I'm a student and a developer!
 
-- ✏️ I’m currently working on learning pyscript & java
-- 📚 I am starting a new studie
+- ✏️ I’m currently working on Java and Unity
+- 📚 Finishing my first year
 - ⚡ Fun fact: i love to drink every kind of coffee ☕
 
 <br />
@@ -13,10 +13,9 @@ My name is Luka Leppens and i'm a software developer and student. You can find m
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/💻_OS-Windows-informational?style=flat&logo=&logoColor=white&color=d5a445)
 ![](https://img.shields.io/badge/🛠_Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=d5a445)
-![](https://img.shields.io/badge/🛠_Editor-Visual_Studio-informational?style=flat&logo=&logoColor=white&color=d5a445)
-![](https://img.shields.io/badge/📄_Code-PHP-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/🛠_Editor-Eclipse-informational?style=flat&logo=&logoColor=white&color=d5a445)
+![](https://img.shields.io/badge/📄_Code-Java-informational?style=flat&logo=&logoColor=white&color=d5a445)
 ![](https://img.shields.io/badge/📄_Code-Pyhton-informational?style=flat&logo=&logoColor=white&color=d5a445)
-![](https://img.shields.io/badge/🧱_Framework-Laravel-informational?style=flat&logo=&logoColor=white&color=d5a445)
 
 
 
